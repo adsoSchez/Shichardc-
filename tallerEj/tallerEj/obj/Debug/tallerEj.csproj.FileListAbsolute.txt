@@ -1,0 +1,8 @@
+C:\Users\nicolle\source\repos\POO\tallerEj\tallerEj\obj\Debug\tallerEj.csproj.AssemblyReference.cache
+C:\Users\nicolle\source\repos\POO\tallerEj\tallerEj\obj\Debug\tallerEj.csproj.CoreCompileInputs.cache
+C:\Users\nicolle\source\repos\POO\tallerEj\tallerEj\bin\Debug\tallerEj.exe.config
+C:\Users\nicolle\source\repos\POO\tallerEj\tallerEj\bin\Debug\tallerEj.exe
+C:\Users\nicolle\source\repos\POO\tallerEj\tallerEj\bin\Debug\tallerEj.pdb
+C:\Users\nicolle\source\repos\POO\tallerEj\tallerEj\obj\Debug\tallerEj.exe
+C:\Users\nicolle\source\repos\POO\tallerEj\tallerEj\obj\Debug\tallerEj.pdb
+C:\Users\nicolle\source\repos\POO\tallerEj\tallerEj\obj\Debug\tallerEj.exe.config
